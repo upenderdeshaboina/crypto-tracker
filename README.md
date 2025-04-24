@@ -2,7 +2,7 @@
 
 A real-time cryptocurrency price tracking application built with React, TypeScript, and Tailwind CSS. The application provides live updates of cryptocurrency prices and market data using the Binance WebSocket API, with a fallback to simulated data.
 
-![Crypto Tracker Screenshot](/crypto-tracker/public/images/screenshot.png)
+![Crypto Tracker Screenshot](/public/images/screenshot.png)
 
 ## Features
 
@@ -24,7 +24,7 @@ A real-time cryptocurrency price tracking application built with React, TypeScri
 
 Watch the application in action:
 
-![Demo GIF](/crypto-tracker/public/images/demo.gif)
+![Demo GIF](/public/images/demo.gif)
 
 
 The demo showcases:
