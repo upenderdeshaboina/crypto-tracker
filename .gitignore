@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Production
+/dist
+/dist-ssr
+*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# Debug
+debug.log
+
+# Build tools
+.eslintcache
